@@ -1,16 +1,20 @@
-## Hi there 👋
+## Привет, я Артём 👋
 
-<!--
-**ArtyomSelyuk1606/ArtyomSelyuk1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий Python-разработчик, ориентированный на backend-направление.
+Интересуюсь разработкой приложений на Python, архитектурой и чистым кодом.
 
-Here are some ideas to get you started:
+### 🛠 Технологии
+- Python
+- PostgreSQL, SQL
+- Git
+- Pygame
+- HTML, CSS
+- Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Проекты
+- 🐍 **Snake Game** — игровой проект на Python с использованием Pygame
+  👉 https://github.com/ArtyomSelyuk1606/the_snake
+
+### 📫 Контакты
+- Telegram: @a_sssqa
+- Email: artyomslk228@gmail.com
